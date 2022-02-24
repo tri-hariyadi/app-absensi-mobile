@@ -22,6 +22,6 @@ Absensi Mobile adalah aplikasi yang digunakan untuk absensi karyawan yang bekerj
 
 ### License
 
-Copyright © 2017, [Tri Hariyadi](https://github.com/jonschlinkert).
+Copyright © 2022, [Tri Hariyadi](https://github.com/tri-hariyadi).
 
 ---
